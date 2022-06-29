@@ -1,0 +1,61 @@
+h1{
+	font-family: syne;
+	margin-left: 300px;
+	padding: 15px;
+	font-size: 5rem;
+}
+
+h2{
+	text-align: center;
+	font-size: 10rem;
+}
+
+h3{
+	margin-right: 125px;
+	margin-left: 125px;
+	line-height: 1.8;
+}
+
+.margin{
+	margin-bottom: 125px;
+}
+
+div {
+  background-image: url("https://images.pexels.com/photos/6070371/pexels-photo-6070371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-position: center;
+
+  background-size: 3689px 5534px;
+  background-size: 100%
+}
+
+header{
+	background-color: #740606;
+	padding: 5px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: 'Abril Fatface';
+}
+
+li a:hover{
+	text-decoration: underline;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	background-color: #740606;
+	padding: 5px;
+}
